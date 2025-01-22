@@ -32,7 +32,7 @@ The dataset `job_and_skills.csv` was created through data cleaning and preproces
 1. Clone this repository:
    
     ```bash
-    git clone https://github.com/Aidirrr/linkedin-post-ai.git
+    git clone https://github.com/ikmalsofian/linkedin-post-ai.git
     cd linkedin-post-ai
     ```
     
